@@ -1,2 +1,2 @@
-# Excel-Homework-Kickstart-My-Chart
+# Excel-Challenge
 Data Bootcamp | Excel Week 1 & 2 Homework 
